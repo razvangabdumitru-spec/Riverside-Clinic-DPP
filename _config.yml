@@ -1,0 +1,24 @@
+title: "Riverside Community Clinic — Diabetes Prevention Program"
+# Navigation: only the required 5 pages, in this order
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Program"
+    url: "/program.html"
+  - title: "Schedule"
+    url: "/schedule.html"
+  - title: "FAQ"
+    url: "/faq.html"
+  - title: "Contact"
+    url: "/contact.html"
+
+description: "Microsite for the Riverside Community Clinic Diabetes Prevention Program. Content missing in memory; see NOTES_FOR_REVIEW.md."
+
+# Keep Jekyll minimal / plain HTML pages
+markdown: kramdown
+
+# Prevent any blog/collections from showing
+collections: {}
+
+# GitHub Pages configuration
+remote_theme: ""
